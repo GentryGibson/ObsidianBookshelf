@@ -1,4 +1,5 @@
 # Obsidian Bookshelf
+<img src="https://i.postimg.cc/YStfFxqR/Bookshelf-Sample-Vault.png" alt="Obsidian Bookshelf Sample Vault" width="500"> <br>
 This is the sample vault that I used to create a bookshelf in this [tutorial for Obsidian.md](https://thebuccaneersbounty.wordpress.com/2021/08/21/tutorial-how-to-create-a-bookshelf-in-obsidian/).
 
 ## How to Download
