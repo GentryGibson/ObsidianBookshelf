@@ -16,3 +16,7 @@ This is the sample vault that I used to create a bookshelf in this [tutorial for
 - SkepticMystic: [CSS Snippet](https://forum.obsidian.md/t/dataview-plugin-snippet-showcase/13673/108) for lines on the Dataview table.
 - peterolson: [Dataview code](https://forum.obsidian.md/t/dataview-plugin-snippet-showcase/13673/286?u=gibson) for displaying book cover images
 - noatpad: [Obsidian Banners Plugin](https://github.com/noatpad/obsidian-banners)
+
+If you found this helpful, consider supporting me on Ko-fi!
+<br> <br>
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/X8X8DBHQW)
